@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-security-utility"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS security-utility component"
+
+[lib]
+name = "security_utility"
+path = "src/lib.rs"
